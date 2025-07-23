@@ -1,16 +1,37 @@
-## Hi there 👋
+## Olá! 👋 Seja bem-vindo(a) ao meu perfil!
 
-<!--
-**NatyAnalytcs-1/NatyAnalytcs-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Natalia Anastacio</strong><br/>
+      <em>Analista de Dados</em><br/><br/>
+      <a href="https://github.com/NatyAnalytcs-1">
+        <img src="https://img.shields.io/badge/GitHub-NatyAnalytcs--1-black?style=for-the-badge&logo=github" />
+      </a>
+      <br/><br/>
+      <a href="https://www.linkedin.com/in/nataliaanastacio">
+        <img src="https://img.shields.io/badge/LinkedIn-nataliaanastacio-blue?style=for-the-badge&logo=linkedin" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Sobre mim**  
+Sou apaixonada por transformar dados em soluções reais. Atuo com foco em **análise de dados**, **automação de processos** e **criação de dashboards interativos** no **Power BI**, buscando sempre apoiar a tomada de decisão de forma clara e objetiva.
+
+🛠️ **Habilidades em destaque:**
+- Power BI | Excel | SQL Server | MySQL  
+- Modelagem e limpeza de dados (ETL)  
+- Análises e relatórios interativos  
+- Capacidade analítica e foco em resultados  
+
+📊 **Projeto em destaque:**  
+Desenvolvi uma pesquisa escolar com **Zoho Survey**, analisando respostas em **Power BI**, o que ajudou na criação de **treinamentos comportamentais** e melhorias internas com base nas reclamações e sugestões dos colaboradores.
+
+🚀 **Buscando aprendizado contínuo**, estou sempre aprimorando minhas habilidades em análise de dados e ferramentas como Tableau, Python, e automações com scripts.
+
+---
+
+✨ *“Dados bem tratados contam histórias. Histórias bem contadas resolvem problemas.”*  
