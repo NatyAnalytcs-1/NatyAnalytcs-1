@@ -22,16 +22,18 @@
 Sou apaixonada por transformar dados em soluções reais. Atuo com foco em **análise de dados**, **automação de processos** e **criação de dashboards interativos** no **Power BI**, buscando sempre apoiar a tomada de decisão de forma clara e objetiva.
 
 🛠️ **Habilidades em destaque:**
-- Power BI | Excel | SQL Server | MySQL  
+- Power BI | Excel | SQL Server | MySQL  | Supabase
 - Modelagem e limpeza de dados (ETL)  
 - Análises e relatórios interativos  
 - Capacidade analítica e foco em resultados  
 
 📊 **Projeto em destaque:**  
-Desenvolvi uma pesquisa escolar com **Zoho Survey**, analisando respostas em **Power BI**, o que ajudou na criação de **treinamentos comportamentais** e melhorias internas com base nas reclamações e sugestões dos colaboradores.
+Desenvolvi uma pesquisa escolar com **Zoho Survey**, analisando respostas em **Power BI**, o que ajudou na criação de **treinamentos comportamentais** e melhorias internas com base nas reclamações e sugestões dos colaboradores e clientes.
 
-🚀 **Buscando aprendizado contínuo**, estou sempre aprimorando minhas habilidades em análise de dados e ferramentas como Tableau, Python, e automações com scripts.
 
----
+🚀 **Em constante evolução profissional:** 
+Estou conduzindo novos projetos com Flutterflow e Supabase, explorando soluções inovadoras e integrando conhecimentos em análise de dados, automações e scripts.
+
+
 
 ✨ *“Dados bem tratados contam histórias. Histórias bem contadas resolvem problemas.”*  
