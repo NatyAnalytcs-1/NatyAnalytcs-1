@@ -35,14 +35,14 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
   </a>
 
-  <!-- Supabase -->
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/S/supabase-logo-52B092C2CC-seeklogo.com.svg" alt="Supabase" width="40" height="40"/>
-  </a>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@15.9.0/icons/supabase.svg"
+       alt="Supabase" width="40" height="40" style="vertical-align:middle;">
+</a>
 
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript " width="40" height="40"/>
   </a>
 
 
@@ -51,8 +51,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
-
-
 
 
 ---
