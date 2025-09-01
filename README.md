@@ -20,40 +20,25 @@
 
 <h3 align="left">Ferramentas & Linguagens:</h3>
 <p align="left">
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-
-  <!-- SQL Server -->
-  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>
-
-<a href="https://supabase.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@15.9.0/icons/supabase.svg"
-       alt="Supabase" width="40" height="40" style="vertical-align:middle;">
-</a>
-
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript " width="40" height="40"/>
-  </a>
-
-
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" title="Power BI"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer" title="SQL Server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer" title="Supabase"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/supabase.svg" alt="Supabase" width="50" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://flutterflow.io/" target="_blank" rel="noreferrer" title="FlutterFlow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="FlutterFlow" width="50" height="50"/></a>
 </p>
 
-
 ---
+
+
+
 🎯 **Sobre mim**  
 Sou apaixonada por transformar dados em soluções reais. Atuo com foco em **análise de dados**, **automação de processos** e **criação de dashboards interativos** no **Power BI**, buscando sempre apoiar a tomada de decisão de forma clara e objetiva.
 
@@ -68,7 +53,7 @@ Desenvolvi uma pesquisa escolar com **Zoho Survey**, analisando respostas em **P
 
 
 🚀 **Em constante evolução profissional:** 
-Estou conduzindo novos projetos com Flutterflow e Supabase, explorando soluções inovadoras e integrando conhecimentos em análise de dados, automações e scripts.
+Estou conduzindo novos projetos com Flutterflow, Flutter e Supabase, explorando soluções inovadoras e integrando conhecimentos em análise de dados, automações e scripts.
 
 
 
